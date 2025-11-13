@@ -1,0 +1,5 @@
+{
+  "name": "XNRT Mini Exchange",
+  "description": "A single-page application to swap Solana tokens (USDT/USDC/WSOL to/from XNRT) using the Jupiter API for best-price routing. Built with React, TypeScript, and Solana Wallet Adapter.",
+  "requestFramePermissions": []
+}
